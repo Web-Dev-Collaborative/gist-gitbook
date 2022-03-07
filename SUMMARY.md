@@ -1,11 +1,15 @@
 # Table of contents
 
 * [Gist Log](README.md)
+* [Commands](commands.md)
 * [Articles](articles.md)
 * [Python](python.md)
+* [Resource Lists](resource-lists.md)
 * [Javascript](javascript.md)
+* [Cheatsheets](cheatsheets.md)
 * [DS-Algo](ds-algo.md)
 * [Utility](utility.md)
 * [NPM](npm/README.md)
   * [NPM Docs](npm/npm-docs.md)
 * [Docs](docs.md)
+* [Archive](archive.md)
