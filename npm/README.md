@@ -1,4 +1,4 @@
-# NPM
+# 💹 NPM
 
 {% embed url="https://gist.github.com/bgoonz/4600ce65d3d182617429245773cc79fb" %}
 

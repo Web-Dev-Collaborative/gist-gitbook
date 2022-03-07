@@ -1,4 +1,4 @@
-# NPM Docs
+# 📚 NPM Docs
 
 {% embed url="https://gist.github.com/bgoonz/208fdcfb24cc66f385a023c842daf958" %}
 
