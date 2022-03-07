@@ -6,6 +6,7 @@
 * [Python](python/README.md)
   * [Scripts](python/scripts/README.md)
     * [Search For String In Folder](python/scripts/search-for-string-in-folder.md)
+    * [File Duplicates](python/scripts/file-duplicates.md)
 * [Resource Lists](resource-lists.md)
 * [DS-Algo](ds-algo.md)
 * [Javascript](javascript.md)
